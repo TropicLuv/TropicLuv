@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=tropicLuv&theme=monokai&show_icons=true"></img>
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=tropicLuv&theme=monokai&show_icons=true"></img>
 <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tropicLuv&layout=compact&theme=monokai"></img>
 
 
