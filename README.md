@@ -1,5 +1,5 @@
-<img src="https://github-readme-stats.vercel.app/api?username=tropicluv&theme=radical&show_icons=true"></img>
-<img width="355px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tropicluv&layout=compact&theme=radical"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=tropicluv&theme=radical&show_icons=true&bg_color=000000"></img>
+<img width="355px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tropicluv&layout=compact&theme=radical&bg_color=000000"></img>
 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tropicLuv&theme=monokai&show_icons=true)
